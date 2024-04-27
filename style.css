@@ -1,1 +1,15 @@
-p { background-color: red; }
+body {
+    color: brown;
+  }
+
+h1 {
+    color: blue;
+  }
+
+.lista {
+    color: violet;
+  }
+
+#punainen {
+    color: red;
+  }
